@@ -1,0 +1,1 @@
+We successfully implemented Linear Search, which sequentially checks each element until a match is found. It works on both sorted and unsorted lists without preprocessing, but requires \(O(n)\) time in the worst case.

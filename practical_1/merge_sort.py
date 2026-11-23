@@ -25,5 +25,5 @@ def merge_sort(arr):
     return result
 
 
-arr = [5, 3, 8, 4, 2]
+arr = [24, 35, 12, 45, 7]
 print(merge_sort(arr))

@@ -1,0 +1,1 @@
+We successfully implemented Insertion Sort, which builds the final sorted array one item at a time. It performs very efficiently on small or nearly sorted datasets with a best-case time complexity of \(O(n)\), though its worst-case complexity remains \(O(n^2)\).

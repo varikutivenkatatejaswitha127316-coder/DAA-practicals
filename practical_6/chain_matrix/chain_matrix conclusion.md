@@ -1,0 +1,1 @@
+We successfully implemented Matrix Chain Multiplication using Dynamic Programming. It determines the optimal parenthesization order to minimize scalar multiplications, reducing the time complexity from exponential to \(O(n^3)\) using \(O(n^2)\) space.

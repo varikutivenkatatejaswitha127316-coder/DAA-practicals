@@ -1,0 +1,1 @@
+We successfully implemented Selection Sort, which repeatedly finds the minimum element from the unsorted portion and places it at the beginning. Although it minimizes the number of swaps to \(O(n)\), its \(O(n^2)\) time complexity across all cases limits its use to small arrays

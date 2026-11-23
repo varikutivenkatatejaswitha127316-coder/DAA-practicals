@@ -1,0 +1,1 @@
+We successfully implemented an algorithm for the Travelling Salesman Problem to compute the shortest Hamiltonian cycle visiting every vertex once. Using Dynamic Programming (Held-Karp), the time complexity is improved from \(O(n!)\) brute-force to \(O(n^2 \cdot 2^n)\).

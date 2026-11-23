@@ -10,5 +10,5 @@ def quick_sort(arr):
     return quick_sort(left) + [pivot] + quick_sort(right)
 
 
-arr = [5, 3, 8, 4, 2]
+arr = [100, 120, 45, 23, 14]
 print(quick_sort(arr))

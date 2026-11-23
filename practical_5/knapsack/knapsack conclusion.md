@@ -1,0 +1,1 @@
+We successfully implemented the 0/1 Knapsack algorithm using Dynamic Programming. By storing solutions to overlapping subproblems in a lookup table, it finds the exact maximum profit in \(O(n \times W)\) time, avoiding the exponential \(O(2^n)\) cost of brute-force recursion.

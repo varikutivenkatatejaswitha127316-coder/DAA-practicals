@@ -1,0 +1,1 @@
+We successfully implemented Prim’s greedy algorithm to find the Minimum Spanning Tree (MST) of a weighted undirected graph. By growing the tree one minimum-weight edge at a time, it runs in \(O(V^2)\) time (or \(O(E \log V)\) with a priority queue).

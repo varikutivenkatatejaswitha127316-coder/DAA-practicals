@@ -1,0 +1,1 @@
+We successfully implemented Merge Sort using the Divide and Conquer paradigm. It guarantees a consistent time complexity of \(O(n \log n)\) in best, average, and worst cases, making it ideal for large datasets, though it requires \(O(n)\) auxiliary space for merging.

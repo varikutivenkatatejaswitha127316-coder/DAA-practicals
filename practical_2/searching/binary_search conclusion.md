@@ -1,0 +1,1 @@
+We successfully implemented Binary Search, which repeatedly divides a sorted search interval in half. By eliminating half of the remaining elements at each step, it achieves a highly efficient logarithmic time complexity of \(O(\log n)\)

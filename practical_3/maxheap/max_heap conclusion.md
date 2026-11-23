@@ -1,0 +1,1 @@
+We successfully implemented Max-Heap Sort by constructing a binary max-heap and repeatedly extracting the root element. It provides a guaranteed \(O(n \log n)\) time complexity in all cases while sorting in-place with \(O(1)\) extra space.

@@ -1,0 +1,1 @@
+We successfully implemented Kruskal’s greedy algorithm to construct a Minimum Spanning Tree (MST). By sorting edges by weight and using Disjoint Set Union (DSU) to avoid cycles, it finds the optimal MST in \(O(E \log E)\) time.
